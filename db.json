@@ -1,0 +1,52 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "category": "Technology",
+      "title": "The Future of AI in Everyday Life",
+      "blogger_name": "Alice Smith",
+      "image": "https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024,h_570/https://theincmagazine.com/wp-content/uploads/2022/10/The-Role-of-Technology-in-Modern-Society-1024x570.jpg",
+      "description": "Artificial intelligence is rapidly changing how we live, work, and interact with the world. From smart homes to autonomous vehicles, AI's influence is growing. This blog explores some potential future applications and ethical considerations."
+    },
+    {
+      "id": "2",
+      "category": "Entertainment",
+      "title": "Top 5 Movies to Watch This Summer",
+      "blogger_name": "Bob Johnson",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAunk56l07tpUtGfkEEc5QcysZs4zyYTEw1eFhngo4lOiKWTNeE0KQXN9jGwnL76LL5oE&usqp=CAU",
+      "description": "Looking for something to watch? Here are our top picks for the summer season, ranging from action-packed thrillers to heartwarming comedies. Grab your popcorn!"
+    },
+    {
+      "id": "4",
+      "category": "Sports",
+      "title": "The Rise of Esports: A New Era of Competition",
+      "blogger_name": "Diana Miller",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOEz7pu2nTkNnlPIhQckx-MKCqqteKeFPehQ&s",
+      "description": "Esports has transcended a niche hobby to become a global phenomenon with professional leagues, massive prize pools, and dedicated fan bases. We explore its rapid growth and impact on the sports landscape."
+    },
+    {
+      "id": "5",
+      "category": "Business",
+      "title": "Startup Funding Trends 2024",
+      "blogger_name": "Eve Davis",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXKHwGe9AL18J2jhDCiSB-NjlxzDTz5C_tCQ&s",
+      "description": "A look into the latest trends in startup funding, including venture capital, angel investing, and alternative financing options. What industries are attracting the most capital?"
+    },
+    {
+      "id": "6",
+      "category": "Health",
+      "title": "Mindfulness for Daily Stress Reduction",
+      "blogger_name": "Frank White",
+      "image": "https://hbr.org/resources/images/article_assets/2019/10/Oct19_22_1032609198.jpg",
+      "description": "Practicing mindfulness can significantly reduce daily stress and improve overall well-being. This guide offers simple techniques to incorporate mindfulness into your routine."
+    },
+    {
+      "id": "71fb",
+      "category": "Science",
+      "title": "Exploring the Mysteries of Dark Matter",
+      "blogger_name": "Dr. Emily Chen",
+      "image": "https://img.freepik.com/free-vector/hand-drawn-science-education-background_23-2148499325.jpg",
+      "description": "Dark matter remains one of the greatest unsolved puzzles in astrophysics. Scientists believe it makes up about 27% of the universe's mass but doesn't interact with light, making it incredibly difficult to detect directly. This article delves into the evidence for its existence and the ongoing hunt to uncover its true nature."
+    }
+  ]
+}
