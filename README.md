@@ -1,8 +1,5 @@
 # News Geek - A Responsive React Blog Application
 
-![News Geek Screenshot Example](https://via.placeholder.com/800x400?text=News+Geek+App+Screenshot)
-*(Replace the placeholder image link above with an actual screenshot of your running application)*
-
 This is a single-page blog application built with React.js, serving as a dynamic platform for creating, viewing, and managing blog posts. It leverages `json-server` for a mock backend API, making it easy to get started with local development.
 
 ---
